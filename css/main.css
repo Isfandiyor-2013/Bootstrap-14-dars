@@ -1,0 +1,33 @@
+body{
+    background-color: wheat;
+}
+.mutn{
+    position: absolute;
+    left: -350px;
+    width: 250px;
+}
+.mitn{
+    margin-top: 150px;
+}
+.mrtn{
+    font-size: 30px;
+    position: absolute;
+    top: 20px;
+    left: 1125px;
+}
+.mrnn{
+    font-size: 25px;
+    position: absolute;
+    top: 20px;
+    left: 1270px;
+}
+.hello{
+    width: 400px;
+    position: absolute;
+    top: 0;
+    left: 1110px;
+    height: 700px;
+}
+.matn{
+    width: 60px;
+}
